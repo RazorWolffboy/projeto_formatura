@@ -4,7 +4,7 @@
 
 **Qual é o nome do projeto?**
 
-[NOME]
+[Você sabe como ajudar a natureza?]
 
 **Qual problema relacionado às mudanças climáticas o projeto pretende abordar?**
 
@@ -18,11 +18,11 @@
 
 **Qual é o objetivo principal do projeto?**
 
-[Explique o que você deseja alcançar.]
+[Concientizar as pessoas sobre a importância de cuidar do meio ambiente e reduzir os impactos no Efeito Estufa.]
 
 **Quem é o público-alvo?**
 
-[Descreva quem poderá utilizar ou se beneficiar da solução.]
+[Principalmente crianças e adolescentes.]
 
 **Como o projeto poderá ajudar?**
 
