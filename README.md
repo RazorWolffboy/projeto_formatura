@@ -4,7 +4,7 @@
 
 **Qual é o nome do projeto?**
 
-[Você sabe como ajudar a natureza?]
+['Você sabe como ajudar a natureza?']
 
 **Qual problema relacionado às mudanças climáticas o projeto pretende abordar?**
 
@@ -26,13 +26,13 @@
 
 **Como o projeto poderá ajudar?**
 
-[Explique como o programa pode informar, conscientizar, analisar dados ou incentivar ações.]
+[Por meio das perguntas, o jogo vai concientizar as pessoas sobre como eles podem ajudar a perservar o meio ambiente e reduzir os impactos causados no Efeito Estufa, além de ensinar sobre as mudanças climáticas.]
 
 ## 💡 Solução proposta
 
 **Como o programa funcionará?**
 
-[Será um jogo de perguntas e respostas sobre o que fazer com o lixo, como ajudar o meio ambiente etc.]
+[Será um jogo de perguntas e respostas sobre o que fazer com o lixo, como ajudar o meio ambiente, ensinar sobre mudanças climáticas etc.]
 
 **Quais serão as principais funcionalidades?**
 
@@ -41,13 +41,13 @@
 
 **Qual será o diferencial do projeto?**
 
-[Explique o que torna sua solução interessante ou útil.]
+[Ele ensina, de uma forma divertida, como crianças e jovens podem ajudar a conservar a natureza, além de ensiná-los sobre as mudanças climáticas.]
 
 ## 🌱 Relação com as mudanças climáticas
 
 **Quais aspectos do tema serão abordados?**
 
-[Explique se o projeto abordará as causas, a evolução histórica, a representação na mídia, as consequências ou as formas de enfrentamento das mudanças climáticas.]
+[As mudanças climáticas, os impactos na natureza, o Efeito Estufa e a importância da redução de lixo para a preservação da natureza.]
 
 **Quais fontes serão utilizadas na pesquisa?**
 
@@ -58,17 +58,16 @@
 
 **Quais tecnologias você pretende utilizar e por quê?**
 
-- Python:
-- Bibliotecas:
-- Frameworks:
-- APIs ou banco de dados, se necessário:
+- Python: if, else, elif, def, button, on_mouse_down
+- Bibliotecas: random
+- Frameworks: html, css
 
 ## 🚀 Funcionalidades futuras
 
 **O que você pretende implementar em versões futuras?**
 
-[Descreva melhorias ou recursos que poderão ser adicionados.]
+[Não acho que teria uma versão futura. No máximo a implementação de mais perguntas.]
 
 ## 👥 Autores
 
-[Nome do aluno ou integrantes da equipe.]
+[Ricardo Bucci.]
